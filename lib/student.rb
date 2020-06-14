@@ -11,7 +11,7 @@ class Student
 
 
   def hello
-  puts @phrase
+  "Hey there! I'm so excited to learn stuff."
   end
 
 
