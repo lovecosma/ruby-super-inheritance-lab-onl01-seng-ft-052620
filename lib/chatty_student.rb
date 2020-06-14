@@ -1,7 +1,7 @@
 class ChattyStudent < Student
 
 
-def greeting
+def hello
   @phrase
 end
 
