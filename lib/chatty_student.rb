@@ -2,7 +2,7 @@ class ChattyStudent < Student
 
 
 def hello
-  puts @phrase 
+  puts @phrase
 end
 
 end
