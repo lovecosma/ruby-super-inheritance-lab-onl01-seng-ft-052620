@@ -7,6 +7,14 @@ def hello
 end
 
 def raise_hand
-end 
-
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
 end
