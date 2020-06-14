@@ -1,8 +1,8 @@
 class Student
   attr_accessor :phrase
 
-   def phrase=()
-
+   def phrase=(phrase)
+  @phrase = phrase
    end
 
    def phrase
