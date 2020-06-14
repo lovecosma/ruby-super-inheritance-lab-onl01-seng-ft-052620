@@ -6,7 +6,7 @@ class Student
    end
 
    def phrase
-   @phrase
+  @phrase
    end
 
 
