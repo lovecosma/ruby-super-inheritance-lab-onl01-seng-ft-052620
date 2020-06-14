@@ -11,7 +11,7 @@ class Student
 
 
   def hello
-  @phrase
+  puts @phrase
   end
 
 
