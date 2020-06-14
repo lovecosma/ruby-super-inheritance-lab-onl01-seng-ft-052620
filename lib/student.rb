@@ -1,5 +1,5 @@
 class Student
-  def greeting
+  def hello
   end 
 
 end
