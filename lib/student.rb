@@ -3,7 +3,7 @@ class Student
 
    def phrase=()
 
-   endend 
+   end
 
    def phrase
 
