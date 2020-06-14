@@ -1,5 +1,7 @@
 class Student
-  attr_accessor :greeting_phrase
+  attr_accessor :phrase
+
+  
 
   def hello
 
