@@ -3,7 +3,8 @@ class ChattyStudent < Student
 
 def hello
   super
-  puts
+  puts "Hey there! I'm so excited to learn stuff."
+  puts "How are you doing today? I'm okay, but I'm kind of tired."
 end
 
 end
