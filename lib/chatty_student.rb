@@ -1,6 +1,6 @@
 class ChattyStudent < Student
 def greeting
   super
-  @phrase + 
+  @phrase 
 end
 end
