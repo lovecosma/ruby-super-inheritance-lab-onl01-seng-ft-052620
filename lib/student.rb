@@ -2,8 +2,11 @@ class Student
   attr_accessor :phrase
 
    def phrase=()
-     
-   end
+
+   endend 
+
+   def phrase
+
 
   def hello
 
