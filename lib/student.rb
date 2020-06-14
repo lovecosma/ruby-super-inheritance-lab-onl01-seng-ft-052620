@@ -8,11 +8,14 @@ class Student
    def phrase
 
 
-   end 
+   end
 
 
   def hello
 
   end
+
+
+
 
 end
